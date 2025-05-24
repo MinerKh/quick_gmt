@@ -3,7 +3,7 @@
 Quick GMT 是一个基于 PyGMT 的地质制图工具，提供了简单易用的图形用户界面，帮助用户快速生成专业的地质图件。
 选择添加高程数据的时候需要联网。  
 如果有一定的编程基础，可以直接在cases里修改ipynb文件以快速出图。
-如果对项目感兴趣了可以去系统学习gmt和pygmt以更好的绘图。
+如果对项目感兴趣了可以去系统学习gmt和pygmt以更好的绘图。  
 [gmt官网](https://www.generic-mapping-tools.org/)  
 [gmt中文手册](https://docs.gmt-china.org/latest/intro/)  
 [pygmt官网](https://www.generic-mapping-tools.org/)  
